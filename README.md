@@ -4,7 +4,7 @@
 
 ### urllib`
 
-Standard Python Lib for handling webrequests, cookies, metadata (\(docs\))[https://docs.python.org/3/library/urllib.html]
+Standard Python Lib for handling webrequests, cookies, metadata [\(docs\)](https://docs.python.org/3/library/urllib.html)
 
 
 (the *Requests* package is recommended for higher level HTTP interaction)
