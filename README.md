@@ -1,8 +1,8 @@
 # Webscraping with Python (O'Reilly)
-
+---
 ## Notes
 
-### urllib`
+### urllib
 
 Standard Python Lib for handling webrequests, cookies, metadata [\(docs\)](https://docs.python.org/3/library/urllib.html)
 
@@ -27,7 +27,7 @@ urllib.request.urlopen(url, data=None, [timeout, ]*, cafile=None, capath=None, c
 Contain required libraries within a virtual env to avoid global installation:
 
 ```python
-$ virtualenv newVirtEnv // c
+$ virtualenv newVirtEnv # create virtenv
 $ cd newVirtEnv/
 $ source bin/activate # required to make virtenv live
 ```
